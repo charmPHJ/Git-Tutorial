@@ -1,6 +1,11 @@
-public class Main {
-public static void main(String[] args) {
-         System out print("하이")
 
-}
+public class Star01 {
+
+	public static void main(String[] args) {
+		for(int i = 0; i<10; i++) {
+			System.out.print("*");
+
+		}
+		
+	}
 }
